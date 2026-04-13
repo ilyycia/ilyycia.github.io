@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![image](https://github.com/Sumalene/March7thBlog/assets/124686994/04842755-988d-4857-aa7b-307a3eb9f7d6)
+![image](https://github.com/ilyycia/March7thBlog/assets/124686994/04842755-988d-4857-aa7b-307a3eb9f7d6)
 
   <h1>YAE-Combo 个人博客</h1>
   
@@ -29,7 +29,7 @@ The source code is hosted on [GitHub](404). Reference from https://mmistakes.git
 
 <br>
 
-**预览**: <a href="https://sumalene.github.io" target="_blank">▶ Welcome To YYCOSMO</a>
+**预览**: <a href="https:/ilyycia.github.io" target="_blank">▶ Welcome To YYCOSMO</a>
 
 used Domain: https://march7th.me/
   
