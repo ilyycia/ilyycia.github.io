@@ -28,4 +28,6 @@ A fusion of distinct elements into a unified, harmonious whole, like the flow of
 In mathematics, it's a recursive function that takes a function as an argument and returns a new function.
 </p>
 
+This blog is no longer updated or maintained. New website:  <a href="https://ilyyc.pages.dev/" rel="nofollow"> LYYCIA</a>
+
 </div>
